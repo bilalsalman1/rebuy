@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "575040263056",
+    "project_id": "rebuy-b1940",
+    "storage_bucket": "rebuy-b1940.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575040263056:android:789aed920177e0350e5915",
+        "android_client_info": {
+          "package_name": "com.example.rebuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT7AGu8jiPHsbM5GeP9ra3i3Er0RAS5qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575040263056:android:8ec09a651225c9e30e5915",
+        "android_client_info": {
+          "package_name": "com.example.rebuyy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT7AGu8jiPHsbM5GeP9ra3i3Er0RAS5qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
